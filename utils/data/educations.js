@@ -3,18 +3,18 @@ export const educations = [
     id: 1,
     title: "Bachelor Degree",
     duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    institution: "Institutuion of Sceience And Technology",
   },
   {
     id: 2,
     title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    duration: "2017 - 2019",
+    institution: "Tilottam Model College",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    duration: "20071 - 2073",
+    institution: "Shree Shanti Namuna School",
   }
 ]
